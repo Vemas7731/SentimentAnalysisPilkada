@@ -1,4 +1,4 @@
-# SentimentAnalysisPilkada
+# Sentiment Analysis Pilkada
 
 In this project, I conducted sentiment analysis on Jakarta election candidates to predict the winner using Twitter data. The workflow included:
 
